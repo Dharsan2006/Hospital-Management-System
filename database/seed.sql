@@ -1,0 +1,9 @@
+-- Hospital Management System Seed Script (Reference)
+-- Demo Accounts seeded automatically on backend startup via DataSeeder.java:
+--
+-- admin@example.com       | Admin@123 (Role: ADMIN)
+-- doctor@example.com      | Admin@123 (Role: DOCTOR)
+-- nurse@example.com       | Admin@123 (Role: NURSE)
+-- receptionist@example.com| Admin@123 (Role: RECEPTIONIST)
+-- patient@example.com     | Admin@123 (Role: PATIENT)
+-- pharmacist@example.com  | Admin@123 (Role: PHARMACIST)
